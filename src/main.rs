@@ -1,3 +1,10 @@
+// COMPONENTES 
+// Leonardo Cerqueira
+// Joelton D. Junior
+// Lidianne Frederico
+// Matheus Silva
+// Ângelo Ribeiro
+// André Bastos
 fn integer_to_binary(integer: i64) -> String {
     let mut binary: String = "".to_string();
     let mut remainder: i64 = integer;
